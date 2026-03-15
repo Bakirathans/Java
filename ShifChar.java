@@ -12,5 +12,6 @@ public class ShifChar {
                 result = result + newchar;
             }
         System.out.println(result);
+        scan.close();
     }
 }
